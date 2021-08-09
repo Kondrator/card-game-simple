@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6130301230499074935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7243188392426607936}
+  - component: {fileID: 5741642690613401906}
+  - component: {fileID: 772048630627279392}
+  - component: {fileID: 2667224105395113194}
+  m_Layer: 0
+  m_Name: Modules
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7243188392426607936
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6130301230499074935}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5741642690613401906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6130301230499074935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c8f4887bda81042ba24877864b9af9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  modules:
+  - name: DB Manager Card
+    path: General/Cards/Modules/DB Manager Card
+    parent: Data
+    parentType: 1
+    useParentForOther: 0
+    parentForOther: DB Manager Card
+    guid: 6c31c39e745617d468f4daecb7206739
+    isParentCustom: 0
+  - name: Card Suit Data
+    path: General/Cards/Modules/Card Suit Data
+    parent: Data
+    parentType: 1
+    useParentForOther: 0
+    parentForOther: Card Suit Set
+    guid: 746402e490a46804bb153a1a2ccbda1d
+    isParentCustom: 0
+  - name: Card Value Data
+    path: General/Cards/Modules/Card Value Data
+    parent: Data
+    parentType: 1
+    useParentForOther: 0
+    parentForOther: Card Type Data
+    guid: 53a47014a70ea934081b0d14fa06adb7
+    isParentCustom: 0
+  - name: Card Instancer
+    path: General/Cards/Modules/Card Instancer
+    parent: Controllers
+    parentType: 1
+    useParentForOther: 0
+    parentForOther: Card Instancer
+    guid: 2863e401a58bee349841da6abaa09d25
+    isParentCustom: 0
+  - name: Audio
+    path: General/Cards/Modules/Audio/Modules
+    parent: Audio
+    parentType: 1
+    useParentForOther: 0
+    parentForOther: Modules
+    guid: eadc4d1558d99bf46a7b66605a83c262
+    isParentCustom: 0
+--- !u!114 &772048630627279392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6130301230499074935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ee69f6c7657e8428804d23ce0e6ea0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2667224105395113194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6130301230499074935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cec8764c50071149b593160b1e5a621, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

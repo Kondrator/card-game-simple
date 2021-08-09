@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4f064323ec48ccf43a790aebffd37e72
+  m_SerializeEntries:
+  - m_GUID: a40829e8ba3094e4db6bd369d2ada694
+    m_Address: Assets/Resources
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1d1365e8d5619e14996259a83c95383d
+    m_Address: Assets/Audio/Casual - Main Theme (Loop).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 240edc3a76edb3c4f81528e0717b7add
+    m_Address: Assets/Audio/Click back sound 24.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c5e1d960dfac984ab3cbffac50483b2
+    m_Address: Assets/Audio/Click back sound 4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 322c20a5e757d844bac6ccc057ac62c7
+    m_Address: Assets/Audio/Notification sound 12.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: da73af3c06fc8684e96e6d7dd12636ac
+    m_Address: Assets/Audio/Collect star 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6a1d586444e179440b2a7780661197bb
+    m_Address: Assets/Audio/Notification sound 19.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bdc478072dcf2fa4dbb999c59c65b0db
+    m_Address: Assets/Audio/Click back sound 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6f30e1d91df6bf04e83530e4424343b6
+    m_Address: Assets/Audio/Notification sound 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c65386fc0f2d0aa48a2ef4a6d20868fd
+    m_Address: Assets/Audio/Win sound 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 862f46aa096e97b469dd8adc32c6a415
+    m_Address: Assets/Audio/Notification sound 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c6e169e083e56084b97e7a1202d8c750
+    m_Address: Assets/Audio/Click back sound 23.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe0116eb7f1ee7643bded759da2d941f
+    m_Address: Assets/Atlases/Icons.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: db7955513a3ed01478e68815ca1c5670
+    m_Address: Assets/Sprites/Cards/Front/Card - Front Template 4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d9f9baf575a9497408a4d536920352ba
+    m_Address: Assets/Sprites/Cards/Front/Card - Front Template 3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 524cba0c6552f3b4895d99d00a6c454c
+    m_Address: Assets/Sprites/Cards/Front/Card - Front Template 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8fa27c1df28d01e4e956c1d3780265bc
+    m_Address: Assets/Sprites/Cards/Front/Card - Front Template 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4cf7573d38b602a49ae62af5f33b01dc
+    m_Address: Assets/Sprites/Cards/Back/Card - Back 3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 457e8d11e049da541a7022cc1cd1fd66
+    m_Address: Assets/Sprites/Cards/Back/Card - Back 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8414e9247084e33499b8f50774251bad
+    m_Address: Assets/Sprites/Cards/Back/Card - Back 4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d4318f532fc2f434bb45ee8654b4313d
+    m_Address: Assets/Sprites/Cards/Back/Card - Back 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b504f25127350a24a917dc9bd654713b
+    m_Address: Assets/Sprites/Cards/Suit/Suit Icons.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f12dc0600ad4f20449cfe755990fcc24
+    m_Address: Assets/Sprites/Table/Table 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 825b728d3f2a32e4ba868c8cc0d195d5
+    m_Address: Assets/Sprites/Table/Table 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3daf30436a004264a872627867d10749
+    m_Address: Assets/Sprites/Table/Table 3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 324ec325d840dcf43a03f69f6ab78cac
+    m_Address: Assets/Sprites/Table/Table 4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a14357d49908d854b8d23d4e007da672, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 34f5cec9e514ca0409a3c00ed14397b4, type: 2}
+    - {fileID: 11400000, guid: 7dac2c6fbaa770f40a0bdcdd5927cbe5, type: 2}

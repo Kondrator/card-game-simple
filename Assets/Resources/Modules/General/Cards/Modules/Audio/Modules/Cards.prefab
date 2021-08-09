@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2465252590641877061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5726382671427201489}
+  - component: {fileID: 4608489660494076062}
+  - component: {fileID: 5620087553641606175}
+  m_Layer: 0
+  m_Name: Cards
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5726382671427201489
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2465252590641877061}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4608489660494076062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2465252590641877061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ba521839ece1a40b582beff492a498, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  card:
+    clips:
+    - path: Assets/Audio/Click back sound 24.wav
+      name: Click back sound 24
+      guid: 240edc3a76edb3c4f81528e0717b7add
+    - path: Assets/Audio/Click back sound 23.wav
+      name: Click back sound 23
+      guid: c6e169e083e56084b97e7a1202d8c750
+    - path: Assets/Audio/Click back sound 3.wav
+      name: Click back sound 3
+      guid: bdc478072dcf2fa4dbb999c59c65b0db
+    - path: Assets/Audio/Click back sound 4.wav
+      name: Click back sound 4
+      guid: 7c5e1d960dfac984ab3cbffac50483b2
+--- !u!114 &5620087553641606175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2465252590641877061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36ee26c09df5e4c40ba8fbe55b2d4055, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ee5f667f870ecd443934ac1a74cde3ee, type: 3}
+    - {fileID: 102900000, guid: d58b9465506da9145a00611f17cf47d1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 5545188033488086874, guid: b504f25127350a24a917dc9bd654713b, type: 3}
+  - {fileID: 7039402199452956135, guid: b504f25127350a24a917dc9bd654713b, type: 3}
+  - {fileID: -3801417776794719838, guid: b504f25127350a24a917dc9bd654713b, type: 3}
+  - {fileID: 7068347347551111538, guid: b504f25127350a24a917dc9bd654713b, type: 3}
+  - {fileID: 21300000, guid: 433d5752e3ecb5e4c9ef987596ea057d, type: 3}
+  - {fileID: 21300000, guid: 1b8deb9c80458804fb267a21cf4db434, type: 3}
+  - {fileID: 21300000, guid: d79bf6bc48a6662448487e3dcc502865, type: 3}
+  - {fileID: 21300000, guid: 036ee12ef207dc04d85765ca7a0937d6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Suit Icons_3
+  - Suit Icons_2
+  - Suit Icons_1
+  - Suit Icons_0
+  - Button - Table BG
+  - UI Header
+  - Button - Card Front
+  - Button - Card Back
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0
